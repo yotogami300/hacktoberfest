@@ -3,4 +3,5 @@
 | -------- | -------- | -------- |
 | Domingo Oropeza | (DIOH) | Ing. Sistemas |
 | Diego Potapczuk | | |
+| Carlos salazar  | (Carlucho) | Ing. Sistemas |
 
