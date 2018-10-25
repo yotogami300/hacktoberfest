@@ -15,6 +15,7 @@
 | Carlos salazar    | (Carlucho)| Ing. Sistemas |
 | Luis Munoz        | Lemd      | @soyluimunoz  |
 | Marco Hernandez   | marcoah   | Ing. Geologo  |
+| Jeam Seijas       |Yotogami300| Estudiante PyM|
 
 ***
 
