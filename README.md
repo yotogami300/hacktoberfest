@@ -6,11 +6,11 @@
   </a>
   <br>Hackers / Founders Maracay<br>
 </h1>
-
 <h4 align="center">Listado de Hacktoberfest</h4>
   
 | Nombre y Apellido |   Apodo   |   Profesión   |
 | ----------------- | --------- | ------------- |
 | Domingo Oropeza   | (DIOH)    | Ing. Sistemas |
 | Diego Potapczuk   |           |               |
+| Carlos salazar    | (Carlucho)| Ing. Sistemas |
 | Luis Munoz        | Lemd      | @soyluimunoz  |
