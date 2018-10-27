@@ -16,6 +16,7 @@
 | Luis Munoz        | Lemd      | @soyluimunoz  |
 | Marco Hernandez   | marcoah   | Ing. Geologo  |
 | Jeam Seijas       |Yotogami300| Estudiante PyM|
+| Oscar Diaz Sotillo| Oscards14 |   Diseñador   |
 
 ***
 
